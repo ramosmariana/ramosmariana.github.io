@@ -12,7 +12,7 @@ body {
 
 header {
 	height: 118px; /* You must set a specified height */
-	background-image:url('ramosmariana.github.io/Images/header.JPG');
+	background-image:url('https://ramosmariana.github.io/Images/header.JPG');
 	background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: cover; /* Resize the background image to cover the entire container */	
