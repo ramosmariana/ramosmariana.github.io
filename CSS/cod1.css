@@ -293,19 +293,19 @@ a:hover /*quando passar o mouse por cima*/ {
 }
 
 #sublink1 {
-	list-style-type: none;
+    list-style-type: none;
     width: 100%;
     background-color: #fc8f46;
-	position: absolute;
-	float: left; 
-	font-size: 20px;
-	display: inline-table;
+    position: absolute;
+    float: left; 
+    font-size: 20px;
+    display: inline-table;
 }
 #sublink_linha1 {    
     color: black;
     padding: 10px 100px 10px 100px;
     text-decoration: none;
-	float:left;
+    float:left;
 }
 
 
@@ -313,13 +313,13 @@ a:hover /*quando passar o mouse por cima*/ {
     color: black;
     padding: 8px 16px;
     text-decoration: none;
-	cursor: pointer;
+    cursor: pointer;
 }
 
 
 #sublink_linha1 a:hover /*quando passar o mouse por cima*/{
     background-color: #4b0878;
-    color: white;	
-	cursor: pointer;
+    color: white;
+    cursor: pointer;
 }
 
