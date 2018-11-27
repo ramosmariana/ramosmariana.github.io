@@ -285,6 +285,42 @@ a:hover /*quando passar o mouse por cima*/ {
 	border-right: 20px solid transparent; 
 	float:left;
 }
+#nav_submenu1 {
+	float: left; 
+	background-color: white;
+	z-index:99;
+}
+
+#sublink1 {
+	list-style-type: none;
+    width: 100%;
+    background-color: #fc8f46;
+	position: absolute;
+	float: left; 
+	font-size: 20px;
+	display: inline-table;
+}
+#sublink_linha1 {    
+    color: black;
+    padding: 10px 100px 10px 100px;
+    text-decoration: none;
+	float:left;
+}
+
+
+#sublink_linha1 a {    
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+	cursor: pointer;
+}
+
+
+#sublink_linha1 a:hover /*quando passar o mouse por cima*/{
+    background-color: #4b0878;
+    color: white;	
+	cursor: pointer;
+}
 
 
 
